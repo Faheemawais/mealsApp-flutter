@@ -1,10 +1,17 @@
 # meals_app
 
-A new Flutter project.
+This is my second Flutter Project that is based on multiple Screens.
 
-## Getting Started
+## Working
 
-This project is a starting point for a Flutter application.
+This project has a lot of core logic of using routes for transfering the from one screen to other using push and pop methods.
+Many new Widgets are used like InkWell, Grid, BottomNavigationBarItem, Drawer etc.
+A lot of work behind like state management.
+
+##Contributing
+Contributions are welcome! If you find a bug or want to add a new feature, please open an issue or submit a pull request.
+
+Feel free to adjust and expand this template to provide more information specific to your personal expenses app. Include any additional sections that you think would be valuable for users and contributors. Make sure to include accurate instructions for installation, usage, and contribution guidelines.
 
 A few resources to get you started if this is your first Flutter project:
 
